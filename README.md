@@ -1,0 +1,2 @@
+Hoje (19/03), iniciei meus estudos em JavaScript, com foco nos fundamentos da linguagem.
+Trabalhei com os principais tipos primitivos e explorei operadores aritméticos e lógicos, compreendendo seu funcionamento e aplicação em expressões.
